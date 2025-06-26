@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",  // Enable JSX for React
+    "baseUrl": ".",      // Set base URL for module resolution
+    "paths": {
+      "@/*": ["./src/*"]  // Set up alias for @ to resolve to ./src
+    }
+  },
+  "include": [
+    "src/**/*"  // Include all files inside src folder
+  ]
+}

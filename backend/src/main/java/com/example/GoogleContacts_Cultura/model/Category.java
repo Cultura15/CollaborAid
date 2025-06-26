@@ -1,0 +1,27 @@
+package com.example.GoogleContacts_Cultura.model;
+
+public enum Category {
+    ENGINEERING,
+    NURSING,
+    PROGRAMMING,
+    MATHEMATICS,
+    PHYSICS,
+    CHEMISTRY,
+    BIOLOGY,
+    PSYCHOLOGY,
+    ART_DESIGN,
+    MUSIC,
+    LITERATURE,
+    HISTORY,
+    SOCIOLOGY,
+    PHILOSOPHY,
+    EDUCATION,
+    MARKETING,
+    BUSINESS_MANAGEMENT,
+    FINANCE,
+    LEGAL_STUDIES,
+    LANGUAGES,
+    HEALTH_WELLNESS,
+    DATA_SCIENCE,
+    MACHINE_LEARNING;
+}

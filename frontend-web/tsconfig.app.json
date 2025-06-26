@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",  // Ensure baseUrl is set
+    "paths": {
+      "@/*": ["./src/*"]  // Make sure this alias is consistent
+    }
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
